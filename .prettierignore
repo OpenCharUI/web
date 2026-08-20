@@ -1,6 +1,0 @@
-node_modules
-dist
-out
-release
-package-lock.json
-*.tsbuildinfo
